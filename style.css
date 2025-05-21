@@ -17,3 +17,7 @@ h1{
 .principal h1{
     font-size: 2em;
 }
+h2{
+    text-align: center;
+    color: #808080; 
+}
